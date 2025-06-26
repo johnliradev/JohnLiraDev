@@ -3,9 +3,9 @@
 Sou apaixonado por desenvolvimento web e sempre buscando aprender mais. 🚀
 🛠️ Tecnologias que conheço:
 
-    Frontend: HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React
+    Frontend: HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React, Motion
 
-    Backend: Node.js, Express, Fastify, JWT
+    Backend: Node.js, Express, Fastify, JWT, Log
 
     Outros: APIs RESTful
 
