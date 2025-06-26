@@ -5,11 +5,11 @@ Sou apaixonado por desenvolvimento web e sempre buscando aprender mais. 🚀
 
     Frontend: HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React
 
-    Backend: Node.js, Express
+    Backend: Node.js, Express, Fastify, JWT
 
     Outros: APIs RESTful
 
-    Atualmente aprendendo: Java, TypeScript e Next.js
+    Atualmente aprendendo:  TypeScript e Next.js
 
 🌱 Sobre mim:
 
